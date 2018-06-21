@@ -653,9 +653,12 @@ window.companies = [
     }, 
     {
         "category": "IoT", 
-        "logo": "./logos/Enigmatos.png", 
-        "name": "Enigmatos", 
-        "subcategory": "Automotive"
+        "linkedin": "https://www.linkedin.com/company/enigmatos", 
+	"logo": "./logos/Enigmatos.png", 
+        "name": "Enigmatos",
+	"homepage": "https://www.enigmatos.com/",
+        "subcategory": "Automotive",
+        "description": "Enigmatos offers a dynamic, multi layered, behavior based intrusion detection and prevention system to protect the vehicle and its ecosystem from HW & SW cyber security threats."
     }, 
     {
         "category": "Endpoint Security", 
